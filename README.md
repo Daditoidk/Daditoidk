@@ -1,7 +1,5 @@
 
 
-<!--Snake-->
-![Snake animation](https://github.com/Daditoidk/Daditoidk/blob/output/github-snake-dark.svg)
 <!-- Row: [ Mario | Column( Hello, Skills ) ] -->
 <p>
   <!-- Mario on the left -->
