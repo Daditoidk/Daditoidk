@@ -39,3 +39,6 @@ Developer from Funza, Colombia.
 💻 Since 2016, I’ve built digital solutions for clients in the US and Spain.  
 🌱 Always learning — from Flutter & mobile dev to AI, design, and media editing.  
 🌍 Passionate about travel, anime, books, and creative problem-solving.  
+
+<!--Snake-->
+![Snake animation](https://github.com/Daditoidk/Daditoidk/blob/output/github-contribution-grid-snake.svg)
